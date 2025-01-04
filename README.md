@@ -31,6 +31,7 @@ Soleng operates as a modular swarm, with each agent optimized for a specific rol
 - HackathonAgent: Evaluates hackathon projects.
 - AggregatorAgent: Processes and compiles data for other agents.
 - RouterAgent: Manages query distribution.
+- GitLarpAgent: Analyzes a given github project and provides a health metric for non-technical audience
 
 
 ### Storage Systems
