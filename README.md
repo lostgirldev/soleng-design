@@ -1,6 +1,7 @@
 # The Swarm Intelligence Behind Soleng 
 
-<img width="983" alt="Screenshot 2025-01-01 at 3 59 00 PM" src="https://github.com/user-attachments/assets/0b1c48cb-71eb-4278-b46a-4a941ccddeb7" />
+<img width="650" alt="Screenshot 2025-01-03 at 7 26 58 PM" src="https://github.com/user-attachments/assets/cb8f6e7d-15d9-4709-a7e0-b73d583034c8" />
+
 
 
 The evolution of AI agents is trending toward multi-agent architectures, mirroring the dynamics of collaborative intelligence seen in nature. On the surface, @soleng_agent might seem like a single entity handling tasks like managing PRs, reviewing code, and engaging with developers. But in reality, Soleng is a modular swarm of agents, each specializing in a unique role, working collectively to achieve a singular goal: delivering value to developers.
